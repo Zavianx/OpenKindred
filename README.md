@@ -2,6 +2,8 @@
 
 > An open-source emotional memory layer that helps AI agents understand the human behind the prompt.
 
+![OpenKindred concept illustration](assets/openkindred-hero.png)
+
 OpenKindred is a local-first personal context compiler for AI agents.
 
 It turns a person's digital life, with explicit consent, into an auditable startup profile that any agent can use before a conversation begins.
